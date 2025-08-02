@@ -11,11 +11,11 @@ Szap is a lightweight and extensible SSH brute force testing tool designed for e
 ## 🛠️ Installation & Usage
 
 1. Go to the [Releases](https://github.com/X-croot/Szap/releases) section.
-2. Download the latest `szap.jar` file.
+2. Download the latest `Szap.jar` file.
 3. Run the tool:
 
 ```bash
-java -jar szap.jar
+java -jar Szap.jar
 ```
 
 
